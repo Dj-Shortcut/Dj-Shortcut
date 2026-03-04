@@ -1,16 +1,41 @@
-## Hi there 👋
+# hi, i play guitar and dj sometimes 🎸
 
-<!--
-**Dj-Shortcut/Dj-Shortcut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder of AI tools, bots, and small web products.  
+Currently building **Leaderbot** — a Messenger AI bot running on Fly.io.
 
-Here are some ideas to get you started:
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?logo=flydotio&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![Messenger API](https://img.shields.io/badge/Messenger_API-0084FF?logo=messenger&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Leaderbot](https://github.com/Dj-Shortcut/Leaderbot)
+Messenger AI bot with OpenAI image generation.
+
+**Tech:** Node.js · Redis · Fly.io · OpenAI
+
+**Features:**
+- stateless deployment
+- Redis-backed quota system
+- webhook signature verification
+- async image generation
+
+### [thesenerbarber.shop](https://thesenerbarber.shop)
+Landing page built and deployed for a real client.
+
+## Architecture
+
+```text
+Messenger
+  ↓
+Meta webhook
+  ↓
+Fly.io server
+  ↓
+Redis (state + quotas)
+  ↓
+OpenAI API
+```
