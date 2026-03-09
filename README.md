@@ -23,16 +23,4 @@ Messenger AI bot with OpenAI image generation.
 ### [thesenerbarber.shop](https://thesenerbarber.shop)
 Landing page built and deployed for a real client.
 
-## Architecture
 
-```text
-Messenger
-  ↓
-Meta webhook
-  ↓
-Fly.io server
-  ↓
-Redis (state + quotas)
-  ↓
-OpenAI API
-```
