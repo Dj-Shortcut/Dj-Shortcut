@@ -10,7 +10,7 @@ Currently building **Leaderbot** — a Messenger AI bot running on Fly.io.
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
 ![Messenger API](https://img.shields.io/badge/Messenger_API-0084FF?logo=messenger&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-f7df1e?logo=javascript&logoColor=black)
-
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ## Projects
 
 ### [better-less](https://github.com/Dj-Shortcut/bless)
