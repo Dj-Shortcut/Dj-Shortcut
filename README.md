@@ -25,4 +25,6 @@ Messenger AI bot with OpenAI image generation.
 ### [thesenerbarber.shop](https://thesenerbarber.shop)
 Landing page built and deployed for a real client.
 
+### [surgical-contributor](https://github.com/Dj-Shortcut/surgical-contributor)
+Codex skill for generating minimal-diff, regression-safe, mergeable bugfix PRs.
 
