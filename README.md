@@ -20,7 +20,7 @@ Merged PRs and shipped personal tools/apps with agents across these technologies
 ### [better-less](https://github.com/Dj-Shortcut/bless)
 bless (better-less) — a small terminal pager, written in javascript an tries to be friendlier than less, more or less :)
 
-### [Leaderbot](https://github.com/Dj-Shortcut/Leaderbot)
+### [Leaderbot](https://github.com/Dj-Shortcut/Leaderbot-fb-image-gen)
 Messenger AI bot with OpenAI image generation.
 
 ### [thesenerbarber.shop](https://thesenerbarber.shop)
