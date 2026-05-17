@@ -21,7 +21,8 @@ Merged PRs and shipped personal tools/apps with agents across these technologies
 bless (better-less) — a small terminal pager, written in javascript and tries to be friendlier than less, more or less :)
 
 ### [Leaderbot](https://github.com/Dj-Shortcut/Leaderbot-fb-image-gen)
-Messenger AI bot with OpenAI image generation.
+Messenger AI bot with OpenAI image generation and Openclaw assistant.
+
 
 ### [thesenerbarber.shop](https://thesenerbarber.shop)
 Landing page built and deployed for a real client.
