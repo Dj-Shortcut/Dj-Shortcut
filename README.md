@@ -15,14 +15,16 @@ Merged PRs and shipped personal tools/apps with agents across these technologies
 ![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?logo=flydotio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ## Projects
 
 ### [better-less](https://github.com/Dj-Shortcut/bless)
-bless (better-less) — a small terminal pager, written in javascript and tries to be friendlier than less, more or less :)
+bless (better-less) — a small terminal pager written in JavaScript that tries to be friendlier than less, more or less :)
 
 ### [Leaderbot](https://github.com/Dj-Shortcut/Leaderbot-fb-image-gen)
-Messenger AI bot with OpenAI image generation and Openclaw assistant.
-
+Messenger AI bot with OpenAI image generation and an OpenClaw assistant.
 
 ### [thesenerbarber.shop](https://thesenerbarber.shop)
 Landing page built and deployed for a real client.
@@ -30,3 +32,14 @@ Landing page built and deployed for a real client.
 ### [surgical-contributor](https://github.com/Dj-Shortcut/surgical-contributor)
 Codex skill for generating minimal-diff, regression-safe, mergeable bugfix PRs.
 
+### [Sortflow](https://dj-shortcut.itch.io/sortflow)
+A browser puzzle game built with Unity and C#. Guide colorful buses through traffic and match passengers to their ride.
+
+### Rekordbox × Jev
+An experimental AI DJ project exploring Rekordbox automation, mix timing, transitions, and EQ control.
+
+### [OpenClaw Messenger](https://github.com/Dj-Shortcut/openclaw-facebook-messenger)
+An OpenClaw channel plugin that connects a Facebook Page inbox to an AI assistant, with replies delivered through Messenger.
+
+### [DJ Shortcut](https://dj-shortcut.com)
+My personal DJ website, featuring an interactive 3D experience built with Three.js and WebGL, alongside SoundCloud mixes.
