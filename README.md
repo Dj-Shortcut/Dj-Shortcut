@@ -33,7 +33,7 @@ Codex skill for generating minimal-diff, regression-safe, mergeable bugfix PRs.
 ### [Sortflow](https://dj-shortcut.itch.io/sortflow)
 A browser puzzle game built with Unity and C#. Guide colorful buses through traffic and match passengers to their ride.
 
-### Rekordbox × Jev
+### [Rekordbox × Jev]{https://github.com/Dj-Shortcut/rekordbox-jev}
 An experimental AI DJ project exploring Rekordbox automation, mix timing, transitions, and EQ control.
 
 ### [OpenClaw Messenger](https://github.com/Dj-Shortcut/openclaw-facebook-messenger)
