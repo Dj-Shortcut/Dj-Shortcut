@@ -18,6 +18,9 @@ Merged PRs and shipped personal tools/apps with agents across these technologies
 
 ## Projects
 
+###[SkateRust](https://github.com/Dj-Shortcut/rust-skate-mod) 
+skate-inspired Rust mod 
+
 ### [better-less](https://github.com/Dj-Shortcut/bless)
 bless (better-less) — a small terminal pager written in JavaScript that tries to be friendlier than less, more or less :)
 
