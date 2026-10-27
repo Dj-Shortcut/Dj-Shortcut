@@ -18,7 +18,7 @@ Merged PRs and shipped personal tools/apps with agents across these technologies
 
 ## Projects
 
-###[SkateRust](https://github.com/Dj-Shortcut/rust-skate-mod) 
+### [SkateRust](https://github.com/Dj-Shortcut/rust-skate-mod) 
 skate-inspired Rust mod 
 
 ### [better-less](https://github.com/Dj-Shortcut/bless)
